@@ -45,6 +45,6 @@ A note on github orgs: Only Owners can add new team members. The original Owner 
 
 That's all the mandatory steps. Here are some optional steps:
 
-#### Make a logo
+### Step 4 (optional)
 
-You can [use this .AI/.SVG template](https://github.com/nodeschool/nodeschool.github.io/tree/master/images/make-a-sticker) to design your own custom nodeschool sticker/logo. There is also a [design helper](http://www.finnpauls.de/nodeschool-stickerify/) for the browser based on the design for sketching a simple sticker.
+You can [use this .AI/.SVG template](https://github.com/nodeschool/nodeschool.github.io/tree/master/images/make-a-sticker) to design your own custom vancouver-meetup sticker/logo. There is also a [design helper](http://www.finnpauls.de/nodeschool-stickerify/) for the browser based on the design for sketching a simple sticker.
